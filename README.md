@@ -1,6 +1,5 @@
-## Привет! :wave:
-## Меня зовут Марина. Я - тестировщик :female_detective: :cockroach:
-
+### Привет! :wave:
+### Меня зовут Марина. Я - тестировщик :female_detective: :cockroach:
 ### В этом портфолио представлены работы, выполненные мной во время прохождения курса по тестированию в Skypro.
 :computer:
 1. Отчёт о тестировании нового элемента календаря для учителей - “Личные события”. Курсовая работа:arrow_right:[Посмотреть отчёт](https://docs.google.com/document/d/1h2A4N-eqHofevCjlsruygdD_QIRWbeGuUl1_9-pxxH8/edit?usp=sharing)
